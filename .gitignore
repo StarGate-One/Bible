@@ -1,0 +1,36 @@
+#Ignore these files
+*.pdf
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+
+#Ignore files built by Visual Studio
+*.aps
+*.bak
+*.cache
+*.exe
+*.ilk
+*.lib
+*.log
+*.ncb
+*.obj
+*.pch
+*.pdb
+*.sbr
+*.suo
+*.tlb
+*.tlh
+*.user
+*.vspscc
+*_i.c
+*_p.c
+.vs/
+obj/
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Tt]est[Rr]esult*
+_ReSharper*/
+
+#Nuget packages folder
+packages/
