@@ -3,10 +3,10 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="ANDROMEDA:sa">
-          <Created>2019-12-19T18:17:12.2546974-05:00</Created>
+        <ConnectionNode Name="FREEBIRD:sa">
+          <Created>2022-05-08T18:44:52.9263037-04:00</Created>
           <Type>SQL</Type>
-          <Server>ANDROMEDA</Server>
+          <Server>FREEBIRD</Server>
           <UserName>sa</UserName>
           <Authentication>SQL</Authentication>
           <InitialDB>ChristianBible</InitialDB>
@@ -20,14 +20,14 @@
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
         <FileNode Name="load-en-bible.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDROMEDA:False:sa</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>ANDROMEDA</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FREEBIRD:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FREEBIRD</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>load-en-bible.sql</FullPath>
         </FileNode>
         <FileNode Name="load-en-kjv.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ANDROMEDA:False:sa</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>ANDROMEDA</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:FREEBIRD:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>FREEBIRD</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>load-en-kjv.sql</FullPath>
         </FileNode>
